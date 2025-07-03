@@ -45,8 +45,8 @@ Após a execução, o programa apresentará um menu interativo no terminal, perm
 
 ---
 
-## Créditos do Aluno
+## Créditos
 
 **Desenvolvido por:** [Antonio Victor Monteiro de Souza]
 **Disciplina/Curso:** [Programação Senai]
-**Data:** [Concluido 03/07/2025/Ultimo commit as 20:19, julho de 2025]
+**Data:** [Concluido 03/07/2025]
